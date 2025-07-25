@@ -1,4 +1,4 @@
-#  user or address donon ka data 
+#  user or address donon ka data
 from sqlalchemy import select
 from three import User, Address, engine
 from sqlalchemy.orm import Session
